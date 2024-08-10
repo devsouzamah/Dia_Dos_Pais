@@ -154,11 +154,16 @@ a:hover{
 
     }
 
-    .coluna2{
+    .linha2{
         display: flex;
         flex-wrap: wrap;
-        margin-left: 65px;
+       
     }
+
+    .linha2 *{
+        box-sizing: border-box;
+    }
+
 
 
 
